@@ -1,7 +1,7 @@
 # JS-Platformer
 A simple platformer game made in html, css and vanilla js entirely. Project from FCC
 I improved the original project, by making the physics more realistic. Before you could infinitely jump, now the game is more balanced and playable.
-Github Pages website for this project: https://oia20.github.io/browserRPG/
+Github Pages website for this project: https://oia20.github.io/JS-Platformer/
 
 Technologies used:
 - HTML
